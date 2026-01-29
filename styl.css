@@ -4,7 +4,8 @@ header {
     text-align: center;
 }
 nav { 
-    background: #B3C6D9; height: 600px;
+    background: #B3C6D9; 
+    height: 600px;
     width: 25%;
     float: left;
 }
@@ -20,4 +21,5 @@ footer {
     font-family: Arial;
     text-align: right;
     clear: both;
+
 }
